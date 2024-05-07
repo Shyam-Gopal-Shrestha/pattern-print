@@ -1,0 +1,9 @@
+.flex-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.pattern-container{
+    border: 2px solid greenyellow;
+    margin: 4px;
+}
